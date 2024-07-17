@@ -1,5 +1,9 @@
 # Improving DDoS Attack Detection Using Machine Learning Techniques
-
+## Authors 
+* Raz Saad
+* Maor Or
+* Chen Dahan
+  
 ## Abstract
 This project focuses on enhancing the detection of Distributed Denial of Service (DDoS) attacks using machine learning techniques. Building upon previous work, we explored various algorithms and expanded the dataset to improve detection accuracy.
 
@@ -13,3 +17,6 @@ DDoS attacks pose a significant threat to internet security, leading to financia
 
 ## Dataset
 We used the CIC-IDS2017 dataset, specifically focusing on the "Wednesday workingHours" and "Friday WorkingHours Afternoon DDos" files. The dataset includes 78 features and a class label, with a total of 917,117 records after expansion.
+
+##  Algorithm and results
+![Results](https://github.com/user-attachments/assets/e342fc90-0065-47de-bc2e-9a7240cde50b)
